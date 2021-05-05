@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "Portfolio_v1",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Portfolio version 1.0 using a simplified bare-bones starter from Gatsby",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
