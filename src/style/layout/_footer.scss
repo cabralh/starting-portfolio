@@ -8,7 +8,7 @@
   }
 
   &__text {
-    color: darken(white, 50%);
+    color: #151515, 50%;
     font-size: 1.3rem;
 
     a {
@@ -45,7 +45,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    color: $white-color;
+    color: #151515;
     font-size: 3rem;
     width: 5rem;
     height: 5rem;
