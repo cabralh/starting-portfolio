@@ -63,6 +63,15 @@ export const projectsData = [
     url: '',
     repo: 'https://github.com/cabralh/hype-clothing-app', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'Project4.png',
+    title: 'Thought Space Blog',
+    info: 'A thought space blog project built using Gatsby.js boilerplate.',
+    info2: 'Technologies include: Gatsby.js, GraphQL, ES6, React, and React DOM.',
+    url: 'https://friendly-albattani-b844ef.netlify.app/',
+    repo: 'https://github.com/cabralh/overthnkme', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
