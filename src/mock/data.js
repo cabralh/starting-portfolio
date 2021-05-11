@@ -3,7 +3,7 @@ import PDF from '../images/resume.pdf';
 
 // HEAD DATA
 export const headData = {
-  title: 'Henry Cabral | Software Engineer', // e.g: 'Name | Developer'
+  title: 'Henry Cabral', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'Welcome to my portfolio', // e.g: Welcome to my website
 };
