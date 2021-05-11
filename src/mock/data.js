@@ -60,8 +60,17 @@ export const projectsData = [
       'An ecommerce web application with React, Redux, React Router, Firebase with payments (Stripe API).',
     info2:
       'Stores user information, routes between clothing item pages, and remembers user session (cart).',
-    url: '',
-    repo: 'https://github.com/cabralh/hype-clothing-app', // if no repo, the button will not show up
+    url: 'https://hype-live.herokuapp.com/',
+    repo: 'https://github.com/cabralh/hype-clothing', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Project4.png',
+    title: 'Thought Space Blog',
+    info: 'A thought space blog project built using Gatsby.js boilerplate.',
+    info2: 'Technologies include: Gatsby.js, GraphQL, ES6, React, and React DOM.',
+    url: 'https://friendly-albattani-b844ef.netlify.app/',
+    repo: 'https://github.com/cabralh/overthnkme', // if no repo, the button will not show up
   },
 ];
 
